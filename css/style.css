@@ -4,14 +4,14 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 45px; 
-  font-family:'Lucida Sans'
+  font-size: 45px;
+  font-family: 'Lucida Sans'
 }
 
 h2 {
   text-align: center;
   font-size: 35px;
-  font-family:'Lucida Sans'
+  font-family: 'Lucida Sans'
 }
 
 p {
@@ -27,16 +27,18 @@ p {
 }
 
 #maintitle {
-  color:rgb(7, 138, 138)
+  color: rgb(7, 138, 138)
 }
 
 #sectiontitle1 {
   color: rgb(7, 138, 138)
 }
+
 #sectiontitle2 {
   color: rgb(7, 138, 138)
 }
+
 .flex-container {
   display: flex;
-  justify-content:space-evenly
+  justify-content: space-evenly
 }
